@@ -167,11 +167,3 @@ This project is licensed under the MIT License.
 Disclaimer
 
 This project was built for learning and portfolio purposes. Do not use it to store highly sensitive credentials without additional security hardening.
-
-
-Also create these files before pushing:
-
-```text
-requirements.txt
-LICENSE
-.gitignore
