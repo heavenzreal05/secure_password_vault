@@ -88,7 +88,7 @@ secure-password-vault/
 Clone the repository:
 
 ```bash
-git clone <http://github.com/heavenzreal05/password_vault.git>
+git clone <http://github.com/heavenzreal05/secure_password_vault.git>
 cd secure-password-vault
 
 Install dependencies:
