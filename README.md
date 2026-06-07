@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 Run:
 
-python3 main.py
+python3 password_vault.py
 Usage
 Create Account
 Start the program
