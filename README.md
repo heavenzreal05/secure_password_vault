@@ -89,7 +89,7 @@ Clone the repository:
 
 ```bash
 git clone <http://github.com/heavenzreal05/secure_password_vault.git>
-cd secure-password-vault
+cd secure_password_vault
 
 Install dependencies:
 
@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 Run:
 
-python3 password_vault.py
+python3 main.py
 Usage
 Create Account
 Start the program
